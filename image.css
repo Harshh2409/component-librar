@@ -1,0 +1,39 @@
+.images {
+    height: 35vh;
+    width: 20vw;
+}
+
+.responsive-image-container {
+    margin: 2% 0%;
+}
+
+.binder {
+    display: flex;
+    margin: 4% 15%;
+    justify-content: space-around;
+}
+
+.images-container-1 {
+    font-size: 135%;
+    margin: 4% 0%;
+}
+
+.responsive-code {
+    height: 40vh;
+    width: 29vw;
+    margin: 0% 16%;
+    float: left;
+}
+
+.codesand-link {
+    display: block;
+}
+
+.binder2 {}
+
+.res-container-2 {
+    display: grid;
+    grid-template-rows: auto 30vw;
+}
+
+.images-container-2 {}
